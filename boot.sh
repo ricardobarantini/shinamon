@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\Cloning Shinamon..."
+echo -e "\nCloning Shinamon..."
 rm -fr ~/.local/share/shinamon
 git clone https://github.com/ricardobarantini/shinamon.git ~/.local/share/shinamon > /dev/null
 
