@@ -16,4 +16,4 @@ Dotfiles for my Cinnamon theme that I current use on Linux Mint.
 
 ```bash
 eval "$(wget -qO- https://raw.githubusercontent.com/ricardobarantini/shinamon/refs/heads/main/boot.sh)"
-``
+```
