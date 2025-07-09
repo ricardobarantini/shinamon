@@ -1,0 +1,5 @@
+auto-update = check
+desktop-notifications = false
+font-family = JetBrainsMono Nerd Font
+theme = catppuccin-frappe.conf
+gtk-adwaita = false
